@@ -73,7 +73,7 @@ Larvata 的命名原則，範圍包括：專案、目錄、檔案、應用程式
     - 範例:ap1Staging、rproxy2Staging-larvata-disk2
 4. Virtual Network命名規則,同Resource groups name(序號)
     - 範例:sportServiceStaging、sportServiceStaging-larvata
-5. __禁止使用空白字元。__
+5. __禁止使用空白字元__
 6. __序號起始為1__
 
 ## Git
